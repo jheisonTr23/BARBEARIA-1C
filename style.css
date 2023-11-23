@@ -3,5 +3,6 @@ header {
      color :blue
     }
 
-    body
-     background-color:
+    body { 
+     background-color: blue;
+     color: black;
